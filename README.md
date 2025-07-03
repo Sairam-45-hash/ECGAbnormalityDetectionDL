@@ -24,14 +24,18 @@ CardioXplainAI integrates a **Temporal Convolutional Network (TCN)** and **Bidir
 
 ## 🗂️ Repository Structure
 ```
+
 ├── preprocess.py              # ECG preprocessing and heartbeat segmentation
 ├── model.py                   # RhythmTCN-GRUAttNet architecture
 ├── train.py                   # Training loop with optimizer and scheduler
 ├── evaluate.py                # Evaluation metrics and confusion matrix
 ├── explainability.py          # Grad-CAM and attention visualization
 ├── main.py                    # One-click full pipeline execution
-├── CardioXplainAI_Demo.ipynb  # Jupyter notebook for interactive walkthrough
+├── CardioXplainAI_v1.ipynb    # Jupyter notebook for structured development version 1
+├── Notebook V2.ipynb          # Improved/cleaned notebook with modular sections
+├── rhythm_model.pth           # (Optional) Saved model checkpoint (if applicable to your extension)
 ```
+
 
 ## 🧪 How to Run
 1. Place your `.mat` ECG files in a folder named `data/`
@@ -39,8 +43,10 @@ CardioXplainAI integrates a **Temporal Convolutional Network (TCN)** and **Bidir
 3. Alternatively, open `CardioXplainAI_Demo.ipynb` for an interactive demo
 
 ## 📊 Example Results
-- Macro F1-score: ~93%
-- Multi-class ROC-AUC: ~0.95
+- Accurcay -97.89 %
+- Precision-97.52 %
+- Recall-97.36 %
+- F1-score- 97.44
 - Real-time explanation overlays using attention and Grad-CAM
 
 ## 📌 Notes
@@ -50,8 +56,9 @@ CardioXplainAI integrates a **Temporal Convolutional Network (TCN)** and **Bidir
 ## 📄 License & Contact
 This code is part of academic research and is under review. For usage or collaboration, please contact the corresponding author(s):
 
-- **Sai Ram V.** – [Your Email or GitHub link]  
-- **Professor Naganjaneyulu** – [Institution or Department info]
+- **Sai Ram V.** – [vallabhuni.sairam@gmail.com]  
+- **Professor Naganjaneyulu** – [ Professor,Department of ECE,
+Mizoram University, Aizawl, Mizoram, India-796004, Email: pvnaganjaneyulu@gmail.com]
 
 ---
 
