@@ -7,7 +7,7 @@ A deep learning-based system for robust and accurate detection of cardiac abnorm
 **CardioXplainAI** is an interpretable deep learning framework proposed for automated detection of cardiac abnormalities from ECG signals. This work is associated with the paper:
 
 > **CardioXplainAI: An Interpretable Hybrid TCN-GRU Deep Learning Framework with Adaptive Attention for ECG-Based Cardiac Abnormality Recognition**  
-> *Sairam Vallabhuni, Professor P.V.Naganjaneyulu*  
+> *Sairam Vallabhuni, Professor P.V.Naganjaneyulu, Professor N.Renuka*  
 > *Submitted to IEEE Transactions on Biomedical Engineering (TBME), under review*
 
 ## 🔬 Overview
