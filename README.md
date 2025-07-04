@@ -56,19 +56,22 @@ CardioXplainAI integrates a **Temporal Convolutional Network (TCN)** and **Bidir
 ## 📄 License & Contact
 This code is part of academic research and is under review. For usage or collaboration, please contact the corresponding author(s):
 
-- **Sai Ram V.** – [vallabhuni.sairam@gmail.com]  
-- **Professor Naganjaneyulu** – [ Professor,Department of ECE,
+- **Sairam Vallabhuni** – [Research Scholar, Department of ECE,
+Mizoram University, Aizawl, Mizoram, India-796004, Email: vallabhuni.sairam@gmail.com]  
+- **Dr. P.V.Naganjaneyulu** – [Professor, Department of ECE,
 Mizoram University, Aizawl, Mizoram, India-796004, Email: pvnaganjaneyulu@gmail.com]
+- **Dr. N.Renuka** – [Professor,Department of ECE, R.V.R & JC College of Engineering, Guntur, Andhra Pradesh India-522019.
+Email: nrenuka@rvrjc.ac.in]
 
 ---
 
 ## 📚 Citation
 
-> Sai Ram V., and Prof. Naganjaneyulu, “CardioXplainAI: An Interpretable Hybrid TCN-GRU Deep Learning Framework with Adaptive Attention for ECG-Based Cardiac Abnormality Recognition,” *IEEE Transactions on Biomedical Engineering (TBME)*, Under Review, 2024.
+> Sairam Vallabhuni, Dr. P.V.Naganjaneyulu and Dr. N.Renuka, “CardioXplainAI: An Interpretable Hybrid TCN-GRU Deep Learning Framework with Adaptive Attention for ECG-Based Cardiac Abnormality Recognition,” *IEEE Transactions on Biomedical Engineering (TBME)*, Under Review, 2024.
 
 ```bibtex
 @article{cardioxplainai2024,
-  author    = {Sai Ram V. and Naganjaneyulu},
+  author    = {Sairam Vallabhuni, Dr. P.V.Naganjaneyulu and Dr. N.Renuka},
   title     = {CardioXplainAI: An Interpretable Hybrid TCN-GRU Deep Learning Framework with Adaptive Attention for ECG-Based Cardiac Abnormality Recognition},
   journal   = {IEEE Transactions on Biomedical Engineering (TBME)},
   year      = {2024},
